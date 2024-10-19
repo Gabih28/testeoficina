@@ -95,7 +95,7 @@ main {
 
 .texto {
     color: black;
-    background-color: whitesmoke;
+    background-color: hsl(64, 87%, 64%);
     border-style: solid;
     border-width: 50px;
     border-image-source: url("../Imagens/Borda.png");
